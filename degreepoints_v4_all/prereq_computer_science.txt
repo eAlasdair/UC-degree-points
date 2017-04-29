@@ -1,0 +1,7 @@
+Prerequisite courses for a degree in Computer Science:
+
+COSC121
+COSC122
+MATH120
+STAT101
+COSC261

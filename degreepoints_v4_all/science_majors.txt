@@ -1,0 +1,18 @@
+Possible majors for a degree in Science:
+
+Astronomy
+Biochemistry
+Biological Sciences
+Chemistry
+Computer Science
+Economics
+Finance
+Financial Engineering
+Geography
+Geology
+Linguistics
+Mathematics
+Philosophy
+Physics
+Psychology
+Statistics

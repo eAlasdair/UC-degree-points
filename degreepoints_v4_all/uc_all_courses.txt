@@ -1,0 +1,12 @@
+All possible courses to take at The University Of Canterbury NZ
+
+COSC121,Introduction to Computer Science
+MATH120,Discrete Mathematics
+ENME199,Workshop Training Course for Mechanical and Mechatronics Engineering,0
+EMTH118,Engineering Mathematics 1A
+EMTH119,Engineering Mathematics 1B
+MATH102,Mathematics 1A
+MATH103,Mathematics 1B
+MATH101,Methods of Mathematics
+MATH130,Introduction to Logic and Computability
+MATH170,Mathematical Modelling and Computation
